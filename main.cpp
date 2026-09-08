@@ -7,7 +7,7 @@
 using std::cout;
 
 int main() {
-  // Lines 10-15 print information in the terminal.
+  // Lines 11-15 print information in the terminal.
   cout << "Name: Betsy\n";
   cout << "Interest: Computer Engineering\n";
   cout << "CIS 5 goal: Learn and use a new programming language effectively.\n";
